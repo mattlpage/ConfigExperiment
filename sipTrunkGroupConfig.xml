@@ -5,7 +5,7 @@
 
 <EndPoint>
 <endPointName>Sonus1</endPointName>
-<ipAddress>172.20.49.13</ipAddress>
+<ipAddress>172.20.49.14</ipAddress>
 <port>5060</port>
 <primary>true</primary>
 <optionsPing>false</optionsPing>
